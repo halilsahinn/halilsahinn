@@ -1,8 +1,8 @@
 ### Hi there 👋
 #Halil ŞAHİN
-[![GitHub followers](https://img.shields.io/github/followers/sshneo?style=social)](https://github.com/sshneo?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/sshneo?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=sshneo.visitor-badge)](https://GitHub.com/sshneo/StrapDown.js/stargazers/)
+[![GitHub followers](https://img.shields.io/github/followers/sshneo?style=social)](https://github.com/halilsahinn?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/halilsahinn?style=social)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=sshneo.visitor-badge)](https://GitHub.com/halilsahinn/StrapDown.js/stargazers/)
 
 
 # Hello, I'm Halil 👋
@@ -41,10 +41,10 @@ Contact with me via these platforms!
 
 <p align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=sshneo&count_private=true&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=halilsahinn&count_private=true&show_icons=true&theme=tokyonight">
 </p>
   <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshneo&hide=python&layout=compact&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilsahinn&hide=python&layout=compact&show_icons=true&theme=tokyonight">
   </p>
 
 </p>
