@@ -6,12 +6,11 @@
 
 
 # Hello, I'm Halil 👋
-My personality, which I can describe as a curious, critical and researcher, is the qualities that contribute to my continuous development in these areas and to find different solutions.
-
-I took C# Asp.Net 3.1 EntityFramework – Angular and Java – React programming trainings. By increasing my competence and learning different methods and methods, I tried to improve my personal development and level of expertise in this field. I used Boostrap and Semantic UI from Html-Css libraries. In addition, I continue my learning process by continuing my work in this field with Asp.Net Core Mvc. I worked with MSSQL and PostgreSQL Server in my projects. I got a roadmap about the basic working logic of Html and Css and how I should follow a method if needed.
-
-I developed a car rental website with C# Asp.Net EntityFramework – Angular, and a human resources website with Java – React programming language. I am creating a Blog project with Asp.Net Core 5.0 and Mvc structure.
-In my project work, I can develop in accordance with OOP and SOLID rules with N-Tier Architecture structure.
+I can describe myself as curious, critical and investigative.
+My personality allows me to constantly develop and find different solutions.
+contributing qualities. Current technologies and methods,
+I follow it as required by the profession. Different
+by experiencing methods and techniques in this field I am strengthening my expertise
 
 Contact with me via these platforms! 
 
